@@ -12,3 +12,10 @@ venv/
 
 # Ignore SQLite database files
 *.db
+
+# Ignore log files
+*.log
+logs/
+# Ignore static files
+staticfiles/
+
